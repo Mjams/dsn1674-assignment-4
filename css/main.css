@@ -120,6 +120,8 @@ html {
   .webs {
     font-family: 'Open Sans', sans-serif;
     list-style-type: circle;
+    margin: 0;
+    background-color: gray;
   }
 
   .speaker{
@@ -140,4 +142,15 @@ html {
     font-family: 'Open Sans', sans-serif;
     font-style: italic;
     text-align: center;
+  }
+
+  h3 {
+    font-family: 'Droid Serif', serif;
+    color: white;
+    background-color: grey;
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1.5;
+    margin: 0;
+
   }
