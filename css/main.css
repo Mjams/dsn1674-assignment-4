@@ -1,0 +1,100 @@
+html {
+  background-color: #dbd6cf;
+  }
+
+  h1 {
+    color: #79756f;
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1.5;
+    font-family: 'Droid Serif', serif;
+  }
+
+  h2 {
+    color: #79746f;
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-family: 'Droid Serif', serif;
+  }
+
+  ol{
+    list-style-type: none;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  p {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  em {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: italic;
+  }
+
+  b {
+    font-family: 'Open Sans', sans-serif;
+    color: #79746f;
+    font-weight: normal
+  }
+
+  ul {
+    font-family: 'Open Sans', sans-serif;
+    list-style-type: lower-roman;
+  }
+
+  dt {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+  }
+
+  dd {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  a {
+    color: #713837;
+    }
+
+  a:hover {
+    color: #f6211a;
+  }
+
+  blockquote {
+    font-family: 'Droid Serif', serif;
+    font-style: italic;
+    font-size: 1.5rem;
+  }
+
+  strong {
+    font-family: 'Droid Serif', serif;
+    color: #79746f;
+    font-weight: bold;
+    font-size: 2.5rem;
+
+  }
+  .webs {
+    font-family: 'Open Sans', sans-serif;
+    list-style-type: circle;
+  }
+
+  .speaker{
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-size: 1rem;
+    text-align: right;
+    color: #79756f;
+  }
+
+  .planets{
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-size: 1rem;
+  }
+
+  .marks{
+    font-family: 'Droid Serif', serif;
+    font-weight: bold;
+    font size: 4rem;
+  }
