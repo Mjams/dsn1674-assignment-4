@@ -84,15 +84,17 @@ html {
   }
 
 
-  
   dt {
+    Padding: 1em 0em 0em 0em;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
   }
 
   dd {
     font-family: 'Open Sans', sans-serif;
+    margin: 0;
   }
+
 
   a {
     color: #713837;
@@ -137,5 +139,5 @@ html {
   figure figcaption{
     font-family: 'Open Sans', sans-serif;
     font-style: italic;
-
+    text-align: center;
   }
